@@ -9,8 +9,10 @@ setup(
     py_modules=["actividad_1"],
     install_requires=[
         "pandas",
-        "openpyxl"
-    ]
-    
-    
+        "openpyxl",
+        "requests",
+        "json",
+        "sqlite3",
+        "os"
+    ] 
 )
