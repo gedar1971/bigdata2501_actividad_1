@@ -11,7 +11,7 @@ setup(
         "pandas",
         "openpyxl",
         "requests",
-        "sqlite3",
+        "python-dotenv",
         "os"
     ] 
 )
