@@ -11,7 +11,6 @@ setup(
         "pandas",
         "openpyxl",
         "requests",
-        "json",
         "sqlite3",
         "os"
     ] 
