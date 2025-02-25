@@ -1,5 +1,4 @@
 import pandas as pd
-import json
 import os
 from dotenv import load_dotenv
 from api.apiBase import fetch_data_from_api
@@ -31,15 +30,6 @@ def main():
             df_api.to_sql('table_name', conn, if_exists='replace', index=False)
             print("Datos insertados en la base de datos exitosamente.")
             conn.close()
-
-# def create_json_file(data):
-#     with open('request_api_json.json', 'w') as json_file:
-#         json.dump(data, json_file, indent=4)
-#     print("Archivo JSON 'request_api_json.json' generado exitosamente.")
-
-# def create_xlsx_file(df):
-#     df.to_excel('src/static/xlsx/request_api_xlsx.xlsx', index=False)
-#     print("Archivo Excel 'request_api_xlsx.xlsx' generado exitosamente.")
 
 if __name__ == '__main__':
     main()

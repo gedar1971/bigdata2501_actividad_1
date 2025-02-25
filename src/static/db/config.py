@@ -1,11 +1,7 @@
 import sqlite3
 import os
 
-
-
-
 db_path = os.path.join(os.curdir,'bd_analisis.sqlite')
-
 
 def create_connection():
     connection = None
