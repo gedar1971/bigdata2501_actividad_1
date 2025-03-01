@@ -3,7 +3,7 @@ import os
 from dotenv import load_dotenv
 from api.apiBase import fetch_data_from_api
 from static.db.config  import create_connection
-from utils.helpers import  create_xlsx_file, audit_data
+from utils.helpers import  create_xlsx_file, audit_data, audit_data_md
 
 load_dotenv()
 
@@ -22,14 +22,13 @@ def main():
     audit_data(df_api)
 
     create_xlsx_file(df_api)
- 
-    if os.getenv('DB_CONNECTION'):
-        conn = create_connection()
-        if conn:
-            df_api = df_api.applymap(lambda x: str(x) if isinstance(x, list) else x)
-            df_api.to_sql('table_name', conn, if_exists='replace', index=False)
-            print("Datos insertados en la base de datos exitosamente.")
-            conn.close()
+
+    conn = create_connection()
+    if conn:
+        df_api = df_api.applymap(lambda x: str(x) if isinstance(x, list) else x)
+        df_api.to_sql('table_name', conn, if_exists='replace', index=False)
+        print("Datos insertados en la base de datos exitosamente.")
+        conn.close()
 
 if __name__ == '__main__':
     main()
