@@ -3,7 +3,7 @@ import os
 from dotenv import load_dotenv
 from api.apiBase import fetch_data_from_api
 from static.db.config  import create_connection
-from utils.helpers import  create_xlsx_file, audit_data, audit_data_md
+from utils.helpers import  create_xlsx_file, audit_data
 
 load_dotenv()
 
