@@ -68,6 +68,20 @@ def log_step(message):
     with open(log_path, 'a', encoding='utf-8') as f:
         f.write(f"[{timestamp}] {message}\n")
 
+def convert_to_numeric(df, numeric_columns):
+    for column in numeric_columns:
+        df[column] = pd.to_numeric(df[column], errors='coerce')
+    return df
+
+def convert_to_lowercase(df, text_lowercase_columns):
+    for column in text_lowercase_columns:
+        df[column] = df[column].str.lower()
+    return df
+
+
+
+
+
 def audit_data(df, audit_filename='src/static/audit/auditoria.txt'):
 
     num_rows = len(df)
