@@ -25,7 +25,7 @@ marketCapUsd          0
 volumeUsd24Hr         0
 priceUsd              0
 changePercent24Hr     0
-vwap24Hr              1
+vwap24Hr              2
 explorer              2
 timestamp             0
 dtype: int64
