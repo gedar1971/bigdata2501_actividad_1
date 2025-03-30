@@ -28,8 +28,10 @@ jobs:
         run: pip install -e .
       - name: paso5 - Ejecutar script
         run: python src/script.py
-      - name: paso5 - Ejecutar limpieza de datos
+      - name: paso6 - Ejecutar limpieza de datos
         run: python src/cleanData.py
+      - name: paso7 - Ejecutar enriquecimiento de datos
+        run: python src/enrichment.py
       - name: Commit and Push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
