@@ -62,9 +62,8 @@ def get_output_txt(df, method='info', rows=5):
         raise ValueError(f"Method {method} not supported")
         
     return buffer.getvalue()
-def log_step(message):
+def log_step(message, log_path='src/static/audit/cleaning_log.txt'):
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    log_path = 'src/static/audit/cleaning_log.txt'
     with open(log_path, 'a', encoding='utf-8') as f:
         f.write(f"[{timestamp}] {message}\n")
 
