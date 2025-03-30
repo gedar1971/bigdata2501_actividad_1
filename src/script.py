@@ -15,8 +15,8 @@ def main():
     data = fetch_data_from_api(api_url)
 
     df_api = pd.json_normalize(data, record_path=['data'], meta=['timestamp'])
-    df_api_symbol = df_api[['id', 'name', 'rank', 'supply', 'explorer' , 'marketCapUsd']]
-    df_api_name = df_api[['id', 'symbol', 'maxSupply', 'priceUsd', 'volumeUsd24Hr', 'changePercent24Hr', 'vwap24Hr', 'timestamp']]
+    df_api_name = df_api[['id', 'name', 'rank', 'supply', 'explorer' , 'marketCapUsd']]
+    df_api_symbol = df_api[['id', 'symbol', 'maxSupply', 'priceUsd', 'volumeUsd24Hr', 'changePercent24Hr', 'vwap24Hr', 'timestamp']]
 
     audit_data(df_api_symbol)
     audit_data(df_api_name)
