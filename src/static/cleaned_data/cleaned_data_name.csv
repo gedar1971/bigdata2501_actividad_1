@@ -1,101 +1,101 @@
 id,name,rank,supply,explorer,marketCapUsd
-bitcoin,bitcoin,1,19845709.0,https://blockchain.info/,1639528365133.9165
-ethereum,ethereum,2,120661946.5561552,https://etherscan.io/,217027307344.32452
-tether,tether,3,144034280963.48013,https://www.omniexplorer.info/asset/31,143983896070.65643
-xrp,xrp,4,58205697378.0,https://xrpcharts.ripple.com/#/graph/,118253432675.75668
-binance-coin,bnb,5,144006830.0,https://etherscan.io/token/0xB8c77482e45F1F44dE1745F52C74426C631bDD52,85410795869.50671
-solana,solana,6,512503882.26851714,https://explorer.solana.com/,60990505066.92032
-usd-coin,usdc,7,60649816501.55631,https://etherscan.io/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48,60710455106.51096
-dogecoin,dogecoin,8,148690796383.70523,http://dogechain.info/chain/Dogecoin,24483399831.014107
-cardano,cardano,9,35268011575.20344,https://cardanoexplorer.com/,22667528163.296448
-tron,tron,10,94985541388.861,https://tronscan.org/#/,22176014805.138527
-steth,lido staked eth,11,9378159.597108899,https://etherscan.io/token/0xae7ab96520de3a18e5e111b5eaab095312d7fe84,16879794298.319395
-wrapped-bitcoin,wrapped bitcoin,12,129077.40552189,https://etherscan.io/token/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599,10636821595.395876
-toncoin,toncoin,13,2461769440.370948,Sin datos,9468226533.443558
-unus-sed-leo,unus sed leo,14,923812201.9,https://eospark.com/account/bitfinexleo1,8620721841.209597
-chainlink,chainlink,15,657099970.4527867,https://etherscan.io/token/0x514910771af9ca656af840dff83e8264ecf986ca,8497966177.631245
-stellar,stellar,16,30777463547.83699,https://dashboard.stellar.org/,7968470554.041636
-sui,sui,17,3249982900.458888,https://suiexplorer.com/,7499759647.185512
-avalanche,avalanche,18,414902635.884638,https://avascan.info/,7491642400.823088
-shiba-inu,shiba inu,19,589250687620781.9,https://etherscan.io/token/0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce,7130582238.954036
-hedera-hashgraph,hedera,20,42219399509.40282,https://app.dragonglass.me/hedera/home,6808477142.708096
-litecoin,litecoin,21,75558468.3040892,http://explorer.litecoin.net/chain/Litecoin,6198760373.188729
-mantra-dao,mantra,22,974778351.8199997,https://etherscan.io/token/0x3593d125a4f7849a1b059e64f4517a86dd60c95d,6115177710.771641
-weth,wrapped eth,23,3375317.5926469,https://etherscan.io/token/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,6073976288.754498
-polkadot,polkadot,24,1522267060.0,https://polkascan.io/polkadot,6042437419.121837
-bitcoin-cash,bitcoin cash,25,19850634.375,https://blockchair.com/bitcoin-cash/blocks,5858474421.047663
-bitget-token-new,bitget token,26,1200000000.0,https://etherscan.io/token/0x54D2252757e1672EEaD234D27B1270728fF90581,5394449264.133169
-multi-collateral-dai,dai,27,5365382702.664872,https://etherscan.io/token/0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359,5362386872.32885
-ethena-usde,ethena usde,28,5260950968.360694,etherscan.io,5258656650.563245
-pi,pi,29,6794101040.3435955,https://blockexplorer.minepi.com/,4455351871.321973
-hyperliquid,hyperliquid,30,333928180.0,https://app.hyperliquid.xyz/explorer/token/0x0d01dc56dcaaca66ad901c959b4011ec,3964069991.407324
-monero,monero,31,18446744.07370955,http://moneroblocks.info/,3940688577.4320655
-uniswap,uniswap,32,628494054.71,https://etherscan.io/token/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984,3686577654.525324
-aptos,aptos,33,604422794.1445551,https://explorer.aptoslabs.com/,3083077512.117356
-pepe,pepe,34,420689899653543.6,https://etherscan.io/token/0x6982508145454ce325ddbe47a25d4ec3d2311933,2977160679.524661
-near-protocol,near protocol,35,1199000741.0,https://explorer.nearprotocol.com/,2931520640.878872
-okb,okb,36,60000000.0,https://etherscan.io/token/0x75231f58b43240c9718dd58b4967c5114342a86c,2830881507.0770884
-mantle,mantle,37,3364694382.8368406,https://mantlescan.xyz/,2612596235.787368
-crypto-com-coin,cronos,38,26571560696.0,https://etherscan.io/token/0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b,2550846518.8007345
-first-digital-usd,first digital usd,39,2601315490.163333,Sin datos,2550174963.2981186
-ondo-finance,ondo,40,3159107529.0,https://etherscan.io/token/0xfAbA6f8e4a5E8Ab82F62fe7C39859FA577269BE3,2500019195.7044406
-internet-computer,internet computer,41,482284285.8834832,https://www.dfinityexplorer.org/#/,2448383745.129295
-ethereum-classic,ethereum classic,42,151367967.6932335,http://gastracker.io/,2431759469.258697
-aave,aave,43,15096506.17915445,https://etherscan.io/token/0x80fB784B7eD66730e8b1DBd9820aFD29931aab03,2285253833.8380165
-polygon-ecosystem-token,pol (prev. matic),44,10392099602.653427,https://etherscan.io/token/0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6,1935203355.7648313
-gatetoken,gatetoken,45,85828689.43341725,Sin datos,1910046998.5735123
-vechain,vechain,46,85985041177.0,https://explore.veforge.com/,1854343290.8184807
-official-trump,trump official,47,199999427.480758,https://solscan.io/token/6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN,1846478192.7079248
-bittensor,bittensor,48,8546962.0,https://bittensor.com/scan,1820962687.4574988
-ethena,ethena,49,5285937500.0,Sin datos,1776662918.4867196
-filecoin,filecoin,50,647135072.0,https://protocol.ai,1748026602.9330237
-render,render,51,517716590.0562826,Sin datos,1717476317.1171532
-celestia,celestia,52,584318047.263137,https://www.mintscan.io/celestia,1705606928.616612
-cosmos,cosmos,53,390934204.0,https://www.mintscan.io/,1639056684.2491183
-kaspa,kaspa,54,25960683651.374306,https://explorer.kaspa.org/,1634301649.713906
-algorand,algorand,55,8537381523.817804,https://algoexplorer.io/,1509418092.4102447
-arbitrum,arbitrum,56,4617913336.0,https://arbiscan.io/token/0x912CE59144191C1204E64559FE8253a0e49E6548,1419970173.1042037
-fantom,sonic (prev. ftm),57,2880000000.0,sonicscan.org,1354992622.0879252
-kucoin-token,kucoin token,58,125043917.85133564,https://etherscan.io/token/0xf34960d9d60be18cc1d5afc1a6f012a723a28811,1332707105.008601
-eos,eos,59,1556419102.7764,https://bloks.io/,1243476602.1285555
-dexe,dexe,60,83733353.16057506,https://etherscan.io/token/0xde4EE8057785A7e8e800Db58F9784845A5C2Cbd6,1216907074.778836
-optimism-ethereum,optimism,61,1620705846.0,https://optimistic.etherscan.io/token/0x4200000000000000000000000000000000000042,1142899077.5028045
-story-protocol,story,62,258992823.0,www.storyscan.xyz,1123963831.09167
-maker,maker,63,848074.4183746701,https://etherscan.io/token/Maker,1087845997.6339653
-fetch,artificial superintelligence alliance,64,2520000000.0,https://etherscan.io/token/0x1d287cc25dad7ccaf76a26bc660c5f7c8e2a05bd,1087206379.665458
-jupiter,jupiter,65,2690911111.1,https://solscan.io/token/JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN,1025229816.153528
-xinfin-network,xdc network,66,15692654414.55,https://etherscan.io/token/0x41ab1b6fcbb2fa9dced81acbdec13ea6315f2bf2,1019376585.6228168
-wbnb,wrapped bnb,67,1582884.53984804,https://bscscan.com/token/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c,936777558.5390563
-movement,movement,68,2450000000.0,Sin datos,931613473.4540864
-worldcoin-org,worldcoin,69,1223649706.21482,Sin datos,885343051.8002102
-stacks,stacks,70,1519731982.98976,https://explorer.stacks.co/,877228249.2018611
-usual-usd,usual usd,71,872045271.8289261,https://etherscan.io/address/0x73A15FeD60Bf67631dC6cd7Bc5B6e8da8190aCF5,870092925.1567833
-bonk1,bonk,72,77894175221082.55,Sin datos,866119281.4611833
-immutable-x,immutable x,73,1768317543.39,Sin datos,849353385.9087651
-binaryx-new,four,74,381867255.144574,Sin datos,833596261.6203269
-injective-protocol,injective,75,98970935.41,https://etherscan.io/token/0xe28b3b32b6c345a34ff64674606124dd5aceca30,827402248.436907
-the-graph,the graph,76,9775189789.31821,https://etherscan.io/token/0xc944e90c64b2c07662a292be6244bdf05cda44a7,811294638.1934762
-sei,sei,77,4882361111.0,Sin datos,806429664.2882833
-quant,quant,78,12072738.0,https://etherscan.io/token/0x4a220e6096b25eadb88358cb44068a3248254675,800796059.1185056
-flare,flare,79,60983663777.01,https://flare-explorer.flare.network/,790584621.3156202
-tether-gold,tether gold,80,246524.0,https://etherscan.io/token/0x4922a015c4407f87432b179bb209e125432e4a2a,781997690.0747724
-theta,theta network,81,1000000000.0,https://explorer.thetatoken.org/,774262814.1280754
-paypal-usd,paypal usd,82,739265391.674938,https://etherscan.io/token/0x6c3ea9036406852006290770bedfcaba0e23a0e8,737713939.0131669
-lido-dao,lido dao,83,897877243.8587133,https://etherscan.io/token/0x5a98fcbea516cf06857215779fd812ca3bef1b32,736136852.886333
-berachain,berachain,84,107480000.0,Sin datos,706996649.343044
-tezos,tezos,85,1037550271.786468,https://tzkt.io/,671528079.5623716
-nexo,nexo,86,646145839.5746847,https://etherscan.io/token/0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206,670432227.1842363
-pax-gold,pax gold,87,210371.22,https://etherscan.io/token/0x45804880de22913dafe09f4980848ece6ecbaf78,667778818.3984549
-jito,jito,88,311886262.1,https://solscan.io/token/jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL,654917431.1518688
-curve-dao-token,curve dao token,89,1308683113.0,https://etherscan.io/token/0xD533a949740bb3306d119CC777fa900bA034cd52,646436402.9773983
-the-sandbox,the sandbox,90,2481357126.2233224,https://etherscan.io/token/0x3845badAde8e6dFF049820680d1F14bD3903a5d0,640375514.1572475
-gala,gala,91,43804947221.80908,https://ethplorer.io/es/address/0x15d4c048f83bd7e37d49ea4c83a07267ec4203da#chart=candlestick,634539418.3257244
-bittorrent,bittorrent [new],92,986061142857000.0,https://tronscan.org/#/token/1002000,623368561.8335109
-zcash,zcash,93,15886821.0,https://explorer.zcha.in/,620064789.6743512
-kaia,kaia,94,5966455361.82,https://www.kaiascan.io/,614087519.9211075
-bitcoin-sv,bitcoin sv,95,19846218.75,https://bsvexplorer.io/,607687878.8539023
-iota,iota,96,3707948285.0,https://thetangle.org/,601775482.3818355
-flow,flow,97,1574016688.191111,https://flowscan.org/,580342144.3433431
-raydium,raydium,98,290814662.067804,https://explorer.solana.com/address/4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R,551352890.8105441
-ethereum-name-service,ethereum name service,99,35599404.04,https://etherscan.io/token/0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72,537733564.046931
-pancakeswap,pancakeswap,100,295394509.75103086,https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82,534180343.4006736
+bitcoin,bitcoin,1,19846231.0,https://blockchain.info/,1645455068329.599
+ethereum,ethereum,2,120666956.09991416,https://etherscan.io/,217347221316.22455
+tether,tether,3,144086679997.8651,https://www.omniexplorer.info/asset/31,144232177004.95688
+xrp,xrp,4,58274974538.0,https://xrpcharts.ripple.com/#/graph/,119781574734.26088
+binance-coin,bnb,5,144006830.0,https://etherscan.io/token/0xB8c77482e45F1F44dE1745F52C74426C631bDD52,85245710974.68388
+usd-coin,usdc,6,60870184064.31027,https://etherscan.io/token/0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48,60787223223.35472
+solana,solana,7,514450631.2156934,https://explorer.solana.com/,59430679232.17687
+dogecoin,dogecoin,8,148705696383.70526,http://dogechain.info/chain/Dogecoin,24022255961.98788
+cardano,cardano,9,35268011575.20344,https://cardanoexplorer.com/,22833704989.2944
+tron,tron,10,94982643679.60722,https://tronscan.org/#/,22679918094.50926
+steth,lido staked eth,11,9374205.46261983,https://etherscan.io/token/0xae7ab96520de3a18e5e111b5eaab095312d7fe84,16853468197.578863
+wrapped-bitcoin,wrapped bitcoin,12,129077.40552189,https://etherscan.io/token/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599,10659287443.146856
+unus-sed-leo,unus sed leo,13,923803780.9,https://eospark.com/account/bitfinexleo1,8801225034.959442
+toncoin,toncoin,14,2473007671.3828063,Sin datos,8694959472.116371
+chainlink,chainlink,15,657099970.4527867,https://etherscan.io/token/0x514910771af9ca656af840dff83e8264ecf986ca,8388795396.3038225
+stellar,stellar,16,30778563460.850025,https://dashboard.stellar.org/,7982481164.935516
+avalanche,avalanche,17,414932590.3611275,https://avascan.info/,7507349560.392557
+sui,sui,18,3249982900.458888,https://suiexplorer.com/,7190619044.423847
+shiba-inu,shiba inu,19,589250651184905.6,https://etherscan.io/token/0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce,7149207058.835785
+hedera-hashgraph,hedera,20,42219399509.40282,https://app.dragonglass.me/hedera/home,6769945155.097817
+litecoin,litecoin,21,75558468.3040892,http://explorer.litecoin.net/chain/Litecoin,6276792885.955726
+mantra-dao,mantra,22,974778351.8199997,https://etherscan.io/token/0x3593d125a4f7849a1b059e64f4517a86dd60c95d,6196028586.126849
+polkadot,polkadot,23,1522267060.0,https://polkascan.io/polkadot,6122622118.242289
+weth,wrapped eth,24,3375317.5926469,https://etherscan.io/token/0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2,6087581874.875412
+bitcoin-cash,bitcoin cash,25,19851131.25,https://blockchair.com/bitcoin-cash/blocks,5981333587.6287155
+bitcoin-bep2,bitcoin bep2,26,65207.71839618,https://explorer.binance.org/asset/BTCB-1DE,5406915597.290776
+bitget-token-new,bitget token,27,1200000000.0,https://etherscan.io/token/0x54D2252757e1672EEaD234D27B1270728fF90581,5384848075.618716
+multi-collateral-dai,dai,28,5365382702.664872,https://etherscan.io/token/0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359,5364447321.737244
+ethena-usde,ethena usde,29,5252116023.595393,etherscan.io,5249076389.421836
+hyperliquid,hyperliquid,30,333928180.0,https://app.hyperliquid.xyz/explorer/token/0x0d01dc56dcaaca66ad901c959b4011ec,3945453821.5850906
+monero,monero,31,18446744.07370955,http://moneroblocks.info/,3931065257.520929
+pi,pi,32,6794101040.3435955,https://blockexplorer.minepi.com/,3826504636.5530105
+uniswap,uniswap,33,628494054.71,https://etherscan.io/token/0x1f9840a85d5af5bf1d1762f925bdaddc4201f984,3670315024.7961936
+aptos,aptos,34,604472162.4773237,https://explorer.aptoslabs.com/,3027303615.5497627
+near-protocol,near protocol,35,1199263060.0,https://explorer.nearprotocol.com/,2981082309.7863526
+pepe,pepe,36,420689899653543.6,https://etherscan.io/token/0x6982508145454ce325ddbe47a25d4ec3d2311933,2828676423.398164
+okb,okb,37,60000000.0,https://etherscan.io/token/0x75231f58b43240c9718dd58b4967c5114342a86c,2810953916.108098
+ondo-finance,ondo,38,3159107529.0,https://etherscan.io/token/0xfAbA6f8e4a5E8Ab82F62fe7C39859FA577269BE3,2591081900.313638
+crypto-com-coin,cronos,39,26571560696.0,https://etherscan.io/token/0xa0b73e1ff0b80914ab6fe0444e65848c4c34450b,2510011282.6102543
+mantle,mantle,40,3364694382.8368406,https://mantlescan.xyz/,2503052193.536201
+internet-computer,internet computer,41,482976259.2016464,https://www.dfinityexplorer.org/#/,2477431953.2822204
+ethereum-classic,ethereum classic,42,151382010.9572335,http://gastracker.io/,2439870589.543532
+first-digital-usd,first digital usd,43,2364076402.9933314,Sin datos,2351176923.70078
+aave,aave,44,15096908.25633893,https://etherscan.io/token/0x80fB784B7eD66730e8b1DBd9820aFD29931aab03,2251930389.4196286
+polygon-ecosystem-token,pol (prev. matic),45,10392099602.653427,https://etherscan.io/token/0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6,1976558181.2927873
+gatetoken,gatetoken,46,85828710.29596004,Sin datos,1891153862.6581085
+official-trump,trump official,47,199999426.984543,https://solscan.io/token/6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN,1888555568.3313756
+vechain,vechain,48,85985041177.0,https://explore.veforge.com/,1864437882.203944
+bittensor,bittensor,49,8554006.0,https://bittensor.com/scan,1846463934.5908563
+cosmos,cosmos,50,390934204.0,https://www.mintscan.io/,1830111374.6743612
+filecoin,filecoin,51,647135072.0,https://protocol.ai,1758385592.3633099
+render,render,52,517716590.0562826,Sin datos,1695536295.247552
+kaspa,kaspa,53,25966463752.853783,https://explorer.kaspa.org/,1672752758.847386
+celestia,celestia,54,585525337.889847,https://www.mintscan.io/celestia,1662776684.122552
+ethena,ethena,55,5285937500.0,Sin datos,1655459686.522244
+algorand,algorand,56,8535611719.937347,https://algoexplorer.io/,1536756629.7092085
+arbitrum,arbitrum,57,4617913336.0,https://arbiscan.io/token/0x912CE59144191C1204E64559FE8253a0e49E6548,1428742696.0100172
+fantom,sonic (prev. ftm),58,2880000000.0,sonicscan.org,1386303176.0274963
+eos,eos,59,1556643195.5878,https://bloks.io/,1324481806.3972387
+kucoin-token,kucoin token,60,125043917.85133564,https://etherscan.io/token/0xf34960d9d60be18cc1d5afc1a6f012a723a28811,1285356232.0280051
+dexe,dexe,61,83733353.16057506,https://etherscan.io/token/0xde4EE8057785A7e8e800Db58F9784845A5C2Cbd6,1250463475.4180496
+optimism-ethereum,optimism,62,1620705846.0,https://optimistic.etherscan.io/token/0x4200000000000000000000000000000000000042,1133837952.119644
+maker,maker,63,848074.4183746701,https://etherscan.io/token/Maker,1092145367.2434468
+fetch,artificial superintelligence alliance,64,2520000000.0,https://etherscan.io/token/0x1d287cc25dad7ccaf76a26bc660c5f7c8e2a05bd,1089463831.6675973
+story-protocol,story,65,259071202.0,www.storyscan.xyz,1086778652.2427115
+xinfin-network,xdc network,66,15692654414.55,https://etherscan.io/token/0x41ab1b6fcbb2fa9dced81acbdec13ea6315f2bf2,1047134886.0160404
+jupiter,jupiter,67,2690911111.1,https://solscan.io/token/JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN,1036395025.0006292
+wbnb,wrapped bnb,68,1582884.53984804,https://bscscan.com/token/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c,955007735.6766
+movement,movement,69,2450000000.0,Sin datos,954913424.4212536
+worldcoin-org,worldcoin,70,1226340536.3054771,Sin datos,929076727.5117805
+stacks,stacks,71,1519909933.85237,https://explorer.stacks.co/,883431904.5986801
+bonk1,bonk,72,77894175221082.55,Sin datos,848821198.1726248
+usual-usd,usual usd,73,845594423.8423951,https://etherscan.io/address/0x73A15FeD60Bf67631dC6cd7Bc5B6e8da8190aCF5,843387801.7890285
+binaryx-new,four,74,381867255.144574,Sin datos,830544470.6809145
+injective-protocol,injective,75,98970935.41,https://etherscan.io/token/0xe28b3b32b6c345a34ff64674606124dd5aceca30,826459057.647656
+quant,quant,76,12072738.0,https://etherscan.io/token/0x4a220e6096b25eadb88358cb44068a3248254675,823170158.1293001
+immutable-x,immutable x,77,1768317543.39,Sin datos,818662663.1281989
+the-graph,the graph,78,9775189789.31821,https://etherscan.io/token/0xc944e90c64b2c07662a292be6244bdf05cda44a7,803987176.054563
+sei,sei,79,4882361111.0,Sin datos,802491995.0196371
+flare,flare,80,60983663777.01,https://flare-explorer.flare.network/,793778552.6324067
+theta,theta network,81,1000000000.0,https://explorer.thetatoken.org/,779391668.7351254
+tether-gold,tether gold,82,246524.0,https://etherscan.io/token/0x4922a015c4407f87432b179bb209e125432e4a2a,770886899.9651258
+paypal-usd,paypal usd,83,758451321.504411,https://etherscan.io/token/0x6c3ea9036406852006290770bedfcaba0e23a0e8,758382202.9796824
+lido-dao,lido dao,84,897877243.8587133,https://etherscan.io/token/0x5a98fcbea516cf06857215779fd812ca3bef1b32,745884760.9490639
+nexo,nexo,85,646145839.5746847,https://etherscan.io/token/0xb62132e35a6c13ee1ee0f84dc5d40bad8d815206,682184567.3456371
+curve-dao-token,curve dao token,86,1310525529.0,https://etherscan.io/token/0xD533a949740bb3306d119CC777fa900bA034cd52,675509751.865934
+tezos,tezos,87,1037633158.106399,https://tzkt.io/,672914491.5901417
+pax-gold,pax gold,88,210371.22,https://etherscan.io/token/0x45804880de22913dafe09f4980848ece6ecbaf78,656348326.5746477
+kaia,kaia,89,5966455361.82,https://www.kaiascan.io/,653018119.2961475
+gala,gala,90,43820741411.30103,https://ethplorer.io/es/address/0x15d4c048f83bd7e37d49ea4c83a07267ec4203da#chart=candlestick,652003869.6162957
+berachain,berachain,91,107480000.0,Sin datos,648724459.8652017
+the-sandbox,the sandbox,92,2481357126.2233224,https://etherscan.io/token/0x3845badAde8e6dFF049820680d1F14bD3903a5d0,647815934.4841284
+jito,jito,93,312629902.0,https://solscan.io/token/jtojtomepa8beP8AuQc6eXt5FriJwfFMwQx2v2f9mCL,619303950.9717766
+bittorrent,bittorrent [new],94,986061142857000.0,https://tronscan.org/#/token/1002000,618835633.1392488
+zcash,zcash,95,15886821.0,https://explorer.zcha.in/,617493289.6408389
+iota,iota,96,3707948285.0,https://thetangle.org/,607985183.6533706
+bitcoin-sv,bitcoin sv,97,19846700.0,https://bsvexplorer.io/,605766754.4992813
+flow,flow,98,1574016688.191111,https://flowscan.org/,581279954.32868
+ethereum-name-service,ethereum name service,99,35599404.04,https://etherscan.io/token/0xC18360217D8F7Ab5e7c516566761Ea12Ce7F9D72,536484366.60707295
+pancakeswap,pancakeswap,100,295589394.87939805,https://bscscan.com/token/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82,534145750.39322215
