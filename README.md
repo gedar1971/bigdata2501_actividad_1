@@ -43,9 +43,7 @@ El proyecto está estructurado en tres fases principales que procesan datos de c
 
 ## Flujo de Datos
 
-```
-API CoinCap → Ingesta → SQLite DBs → Limpieza → Enriquecimiento → Datos Finales
-```
+![Alt text](assets/flow.png)
 
 ## Diagramas del Sistema
 
@@ -56,6 +54,10 @@ API CoinCap → Ingesta → SQLite DBs → Limpieza → Enriquecimiento → Dato
 ### 2. Proceso de Limpieza y Enriquecimiento
 
 ![Alt text](assets/proceso_limpieza.png)
+
+### 2. Automatizacion GitHubActions
+
+![Alt text](assets/githubactions.png)
 
 ### Descripción de los Procesos
 
